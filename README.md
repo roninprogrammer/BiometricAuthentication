@@ -177,7 +177,5 @@ BioMetricAuthenticator.authenticateWithBioMetrics(reason: "", success: {
 ```
 See [Example](https://github.com/roninprogrammer/BiometricAuthentication/tree/master/BiometricAuthenticationExample) for more details.
 
-## License
 
-BiometricAuthentication is released under the MIT license. [See LICENSE](https://github.com/roninprogrammer/BiometricAuthentication/blob/master/LICENSE) for details.
 
